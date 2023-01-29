@@ -1,0 +1,6 @@
+RENCANA
+- Javascript
+- phyton
+- Php
+ *MySQL
+ *database
